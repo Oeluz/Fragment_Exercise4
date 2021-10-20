@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Fragment_Exercise4</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="welcome_message">Hello! Please click on an item in the list below!</string>
 </resources>
